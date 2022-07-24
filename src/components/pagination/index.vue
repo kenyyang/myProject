@@ -48,6 +48,7 @@ export default {
   props: ["pageNo", "pageSize", "total", "continues"],
   computed: {
     totalPage() {
+      //向上取整
       return Math.ceil(this.total / this.pageSize);
     },
     startNumAndEndNum() {

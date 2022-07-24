@@ -59,6 +59,7 @@
 export default {
   name: "",
   data() {
+ 0   
     return {
       keyword: " ",
     };

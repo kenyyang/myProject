@@ -12,7 +12,7 @@ import VueRouter from 'vue-router'
 // import PaySuccess from '../pages/PaySuccess'
 // import Center from '../pages/Center'
 // import myOrder from '../pages/Center/myOrder'
-// import groupOrder from '../pages/Center/groupOrder'
+// import groupOrder from '../pages/Center/ groupOrder'
 import store from '../store'
 
 let router = new VueRouter({
